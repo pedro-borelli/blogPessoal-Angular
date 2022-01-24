@@ -7,3 +7,7 @@ a
 {
     cursor: pointer;
 }
+
+.bg-cor-menu{
+    background-color: rgb(0, 0, 0);
+}

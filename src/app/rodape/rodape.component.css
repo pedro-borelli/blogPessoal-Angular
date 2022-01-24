@@ -1,3 +1,4 @@
+
 ul.social-network
 {
  list-style: none;
@@ -31,4 +32,8 @@ ul.social-network li
 .fa-linkedin-square:hover 
 {
  color: #0072b1;
+}
+
+.bg-cor{
+    background-color: rgb(0, 0, 0);
 }
